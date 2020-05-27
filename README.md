@@ -7,5 +7,5 @@ npm install
 ```
 npm run serve
 ```
-### 查阅文档
+### 文档查阅
 详细学习项目可戳：[Vuex教程（三）：TodoList 案例](https://github.com/OzzieNicholas/Blog/issues/52)
