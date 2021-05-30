@@ -8,4 +8,4 @@ npm install
 npm run serve
 ```
 ### 文档查阅
-详细学习项目可戳：[Vuex教程（三）：TodoList 案例](https://github.com/OzzieNicholas/Blog/issues/52)
+详细学习项目可戳：[Vuex教程（三）：TodoList 案例](https://ozzienicholas.gitee.io/be60763b1592/)
